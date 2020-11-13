@@ -1,0 +1,9 @@
+{
+  "something": {
+    "a": "bbb"
+  },
+  "somethingElse": [
+    1234,
+    5678
+  ]
+}
